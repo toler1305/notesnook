@@ -2186,6 +2186,10 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
+#: src/strings.ts:1500
+#~ msgid "FavoritesAPPLES"
+#~ msgstr ""
+
 #: src/strings.ts:689
 msgid "File check failed: {reason} Try reuploading the file to fix the issue."
 msgstr ""
